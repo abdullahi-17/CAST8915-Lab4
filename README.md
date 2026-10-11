@@ -1,4 +1,4 @@
-# CST8915 Lab 4 – Algonquin Pet Store Part 3
+# CST8915 Lab 4 – Introduction to Docker
 
 **Student Name**: Abdullahi Omer
 **Student ID**: 09043215
